@@ -1,7 +1,7 @@
 ---
-Task: Classification
+Task: Detection
 Tags:
-  - Classification
+  - Detection
   - MobileNetV2
 ---
 
